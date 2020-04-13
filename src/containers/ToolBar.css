@@ -1,0 +1,15 @@
+.ToolBar{
+display: flex;
+
+padding:0 0 0 20px;
+}
+.ToolBar ul{
+    list-style: none;
+    display: flex;
+    padding: 0 10px 20px 30px;
+}
+
+.ToolBar li{
+    padding: 10px;
+    
+}
